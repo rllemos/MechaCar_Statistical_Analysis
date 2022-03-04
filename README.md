@@ -22,6 +22,8 @@
 > 
 > *Deliverable 4: Design a Study Comparing the MechaCar to the Competition.
 
+############################### Deliverable 1 ################################
+
 ## Linear Regression to Predict MPG
 A multiple linear regression model was created that can predict the mpg of MechaCar prototypes using multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. 
 
@@ -37,6 +39,8 @@ The p-value is much smaller than our assumed signicance level of 0.05%.Therefore
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 According to the summary output, the r-squared value is 0.715 which indicates that there is a strong positive correlation. However do to the intercept value we can conclude that there might be other variables that explain the variability of our dependent variable(mpg).
 
+############################### Deliverable 2 ##################################
+
 ## Summary Statistics on Suspension Coils
 Will create a summary statistics table to show:
 * The suspension coil’s PSI continuous variable across all manufacturing lots
@@ -49,6 +53,8 @@ Will create a summary statistics table to show:
 ## Asks:
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 In total the specification are met with variance of 62.29( less than 100). Although, when viewed by lots , Lots 1 & 2 are within specifications;however Lot 3 has a variance that exceeds specifications of 100 PSI.
+
+############################## Deliverable 3 ###################################
 
 ## T-Tests on Suspension Coils
 >Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
@@ -72,6 +78,8 @@ According to the t-test for all manufacturing lots with a p-value of 0.06028 we 
 2.According to lot 2 with a p-value of 0.6072,we can conclude that Lot 1 is not significantly different from the population mean. Fail to reject the null hypothesis.
 
 3.According to lot 3 with a p-value of 0.042, lot 3 is significantly different from the population mean. Null hypothesis rejected, the sample mean and the presumed population mean are not statistiscally different.
+
+################################## Deliverable 4 ###################################
 
 ## Study Design: MechaCar vs Competition
 >Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
