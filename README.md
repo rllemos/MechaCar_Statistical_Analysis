@@ -14,10 +14,10 @@
 
 
 # Overview
-> *Deliverable 1: Linear Regression to Predict MPG
-> *Deliverable 2: Summary Statistics on Suspension Coils
-> *Deliverable 3: T-Test on Suspension Coils
-> *Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+> *Deliverable 1: Linear Regression to Predict MPG.
+> *Deliverable 2: Summary Statistics on Suspension Coils.
+> *Deliverable 3: T-Test on Suspension Coils.
+> *Deliverable 4: Design a Study Comparing the MechaCar to the Competition.
 
 ## Linear Regression to Predict MPG
 A multiple linear regression model was created that can predict the mpg of MechaCar prototypes using multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. 
