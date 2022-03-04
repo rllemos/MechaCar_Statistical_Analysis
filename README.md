@@ -14,10 +14,10 @@
 
 
 # Overview
->*Deliverable 1: Linear Regression to Predict MPG
->*Deliverable 2: Summary Statistics on Suspension Coils
->*Deliverable 3: T-Test on Suspension Coils
->*Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+> *Deliverable 1: Linear Regression to Predict MPG
+> *Deliverable 2: Summary Statistics on Suspension Coils
+> *Deliverable 3: T-Test on Suspension Coils
+> *Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Linear Regression to Predict MPG
 A multiple linear regression model was created that can predict the mpg of MechaCar prototypes using multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. 
@@ -73,7 +73,7 @@ According to the t-test for all manufacturing lots with a p-value of 0.06028 we 
 ## Study Design: MechaCar vs Competition
 >Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
-* Before starting the analysis it is important to specify what car models will be compared to MechaCar. Out of those cars which are the most popular models. *
+*Before starting the analysis it is important to specify what car models will be compared to MechaCar. Out of those cars which are the most popular models.*
 
 ## Asks:
 * What metric or metrics are you going to test?
